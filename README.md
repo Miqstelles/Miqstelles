@@ -2,6 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miquéias;I%27m+18+years+old;I%27m+from+Brazil;)
 
+### Follow me on linkedin: 
+<a href="https://www.linkedin.com/in/miquéias-telles-1796a6218/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 ### Currently focused on learning:
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -9,19 +14,6 @@
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=miqstelles&show_icons=true&theme=gotham" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqstelles&layout=compact" />
-
-
-
-
-
-
-
-
-
-Follow me: 
-<a href="https://www.linkedin.com/in/miquéias-telles-1796a6218/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 

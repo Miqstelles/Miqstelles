@@ -7,6 +7,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=miqstelles&show_icons=true&theme=gotham" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqstelles&layout=compact" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

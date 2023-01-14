@@ -12,7 +12,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=miqstelles&show_icons=true&theme=gotham" />
+![Miqstelles's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqstelles&count_private=true)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqstelles&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

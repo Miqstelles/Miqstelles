@@ -2,6 +2,20 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miquéias;I%27m+18+years+old;I%27m+from+Brazil;)
 
+I Really don't know how u got here, but i'll show some informations about me.
+#
+My name is Miquéias, currently live  in Hortolândia-SP, Brazil and studying day a day to acquire more knowledge and in the future, hopefully soon, work as a developer.
+#
+### Detailed Information
+Name: Miquéias Telles
+
+Age: 18
+
+Living in: Hortolândia - SP, Brasil.
+
+Stack: JavaScript, TypeScript, React, HTML, CSS, TailwindCSS, UI/UX(Figma)
+#
+
 ### Follow me on linkedin: 
 <a href="https://www.linkedin.com/in/miquéias-telles-1796a6218/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Miquéias%20Telles%20&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miquéias;I%27m+18+years+old;I%27m+from+Brazil;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Miquéias;I%27m+19+years+old;I%27m+from+Brazil;)
 
 I Really don't know how u got here, but i'll show some informations about me.
 <img align="right" height="200" style="margin-left: 25px" src="https://media1.giphy.com/media/1jgLDGD1Bn27e/200w.gif?cid=6c09b952kdbim783cvif98uocmz5flhsznvj7jpavxz2db6t&ep=v1_gifs_search&rid=200w.gif&ct=s"/>

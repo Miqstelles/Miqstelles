@@ -6,7 +6,7 @@ I Really don't know how u got here, but i'll show some informations about me.
 #
 My name is Miquéias, currently live  in Hortolândia-SP, Brazil and studying day a day to acquire more knowledge and in the future, hopefully soon, work as a developer.
 
-#
+
 ### Detailed Information
 Name: Miquéias Telles
 

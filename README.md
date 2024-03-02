@@ -14,7 +14,7 @@ Age: 19
 
 Living in: Hortolândia - SP, Brasil.
 
-Stack: JavaScript, TypeScript, React.js, React Native, HTML, CSS, TailwindCSS, UI/UX(Figma), C.
+Stack: JavaScript, TypeScript, React.js, Next.js, React Native, HTML, CSS, TailwindCSS, UI/UX(Figma), C.
 #
 
 ### Follow me on linkedin: 

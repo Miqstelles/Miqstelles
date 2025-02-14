@@ -14,8 +14,14 @@ Age: 20
 
 Living in: Hortolândia - SP, Brasil.
 
-Stack: JavaScript, TypeScript, React.js, Next.js, React Native, HTML, CSS, TailwindCSS, Java, JSP, Firebase.
-#
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 ### Follow me on linkedin: 
 <a href="https://www.linkedin.com/in/miquéias-telles-1796a6218/" alt="Linkedin" target="_blank">
@@ -27,10 +33,7 @@ Stack: JavaScript, TypeScript, React.js, Next.js, React Native, HTML, CSS, Tailw
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqstelles&layout=compact&hide_border=true&count_private=true&pat_1&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Miqstelles" />
 </div>
 
-### Currently focused on learning:
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 

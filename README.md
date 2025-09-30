@@ -7,9 +7,9 @@ I Really don't know how u got here, but i'll show some informations about me.
 ### Detailed Information
 Name: Miquéias Telles
 
-Age: 20
+Age: 21
 
-Living in: Hortolândia - SP, Brazil.
+Living in: Brazil.
 
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
